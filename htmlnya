@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Latihan Position</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="top-bar"></div>
+	<div class="container">
+		<a href="https://www.instagram.com/p/CJkVyP1nGerH-xpnfLKw8RMc89VDItvFY0mgsA0/?igshid=hc9y3d6959un
+" class="insta" target="_blank">@krisnasetyadii</a>
+<!-- blank supaya di klik nambah tab baru -->
+		<div class="header">
+			<h1 class="judul">Website Saya</h1>
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">about</a></li>
+				<li><a href="#">products</a></li>
+				<li><a href="#">services</a></li>
+				<li><a href="#">contact</a></li>
+			</ul>
+		</div>
+		<div class="gambar"></div>
+		<div class="content cf">
+			<div class="main">
+			<h2>Paragraf Lorem</h2>
+			<p class="writer">Ditulis oleh <a href="#">Krisna Dwi S</a> tanggal 28 Maret 2021 </p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in .</p>
+			
+		</div>
+		
+			<div class="sidebar">
+				<h2>Tentang Penulis</h2>
+				<img src="muka.jpg" alt="krisna">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.</p>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="copy">Ini Copyright 2021. Krisna Dwi S</div>
+		</div>
+		</div>
+	</div>
+
+</body>
+</html>
